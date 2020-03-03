@@ -1,2 +1,4 @@
-# datawarehouse-learning-path
-In this repositorie I will make my road to datawarehouse concepts.
+# DATAWAREHOUSE: CAMINHO DE ESTUDO
+
+Nesse repositorio irei trilhar o meu caminho de estudos sobre DW, iniciando com as aulas do 5 semestre da FATEC Bauru.
+
